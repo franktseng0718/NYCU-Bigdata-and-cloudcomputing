@@ -1,0 +1,5 @@
+audios/*
+submission/*.*
+*.pth
+*.npy
+*.zip
